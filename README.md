@@ -1,1 +1,1 @@
-Code availability for "Quiescent Behavior Drives Cooperation in Homogeneous Populations"
+Code availability for "Quiescent Behaviors Drive Cooperation in Homogeneous Populations"
